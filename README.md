@@ -1,5 +1,5 @@
 # Huffmans_encoder_VHDL
-A huffmans encoder implementation written in VHDL.
+A generic huffmans encoder implementation written in VHDL.
 The src folder contains the sorting cell and block as well as the state machine which genrates the huffman table for a given set of data.
 The sim folder contains a testbench file used for simulation which shows an example of the componeant working.
 
